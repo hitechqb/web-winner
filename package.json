@@ -13,7 +13,7 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "quasar": "^1.0.0",
     "vuex": "latest"
   },
